@@ -1,0 +1,13 @@
+.DS_Store
+
+.env
+
+**__pycache__
+venv
+
+/src/data
+/db/data
+/db/logs
+neo4j
+
+backend.txt
